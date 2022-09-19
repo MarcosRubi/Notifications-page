@@ -1,0 +1,82 @@
+[
+    {
+        "avatar": "./images/avatar-mark-webber.webp",
+        "name": "Mark Webber",
+        "information": {
+            "type": "reacted to your recent post",
+            "link": "My first tournament today!",
+            "typePost": "post"
+        },
+        "isReading": false,
+        "timeAgo": "1m ago"
+    },
+    {
+        "avatar": "./images/avatar-angela-gray.webp",
+        "name": "Angela Gray",
+        "information": {
+            "type": "followed you"
+        },
+        "isReading": false,
+        "timeAgo": "1m ago"
+    },
+    {
+        "avatar": "./images/avatar-jacob-thompson.webp",
+        "name": "Jacob Thompson",
+        "information": {
+            "type": "has joined your group",
+            "link": "Chess Club",
+            "typePost": "group"
+        },
+        "isReading": false,
+        "timeAgo": "1 day ago"
+    },
+    {
+        "avatar": "./images/avatar-rizky-hasanuddin.webp",
+        "name": "Rizjy Hasanuddin",
+        "information": {
+            "type": "sent you a private message"
+        },
+        "isReading": true,
+        "timeAgo": "5 day ago",
+        "complement": {
+            "content": "Hello thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+            "typeComplement": "message"
+        }
+    },
+    {
+        "avatar": "./images/avatar-kimberly-smith.webp",
+        "name": "Kimberly Smith",
+        "information": {
+            "type": "commented on your picture"
+        },
+        "isReading": true,
+        "timeAgo": "1 week ago",
+        "complement": {
+            "content": "./images/image-chess.webp",
+            "typeComplement": "photo"
+        }
+    },
+    {
+        "avatar": "./images/avatar-nathan-peterson.webp",
+        "name": "Nathan Peterson",
+        "type": "reacted to your recent post",
+        "information" : {
+            "type": "reacted to your recent post",
+            "link": "5 end-game strategies to increase your win rate",
+            "typePost": "post"
+        },
+        "isReading": true,
+        "timeAgo": "2 weeks ago"
+    },
+    {
+        "avatar": "./images/avatar-anna-kim.webp",
+        "name": "Anna Kim",
+        "information": {
+            "type": "left the group",
+            "link": "Chess Club",
+            "typePost": "group"
+        },
+        "isReading": true,
+        "timeAgo": "2 weeks ago"
+    }
+]
